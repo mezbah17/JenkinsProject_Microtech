@@ -64,4 +64,11 @@ public class Base {
     public static void mezbah() {
         System.out.println("My Name Is Mezbah");
     }
+
+    public static void mezbah_01() {
+        System.out.println("My Name Is Mezbah_01");
+    }
+    public static void mezbah_02() {
+        System.out.println("My Name Is Mezbah_02");
+    }
 }
